@@ -16,7 +16,7 @@ description: >-
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/changelog) alanından projeye katkıda bulunabilirsin
 * Tüm emojiler [🚀 YEmoji](https://learn.yemreak.com/yonetim/yemoji) sözlüğüne uygun olarak seçilmektedir
 
-> Konuları öğrenmek için ideal yolları araştırdığımız [👨‍🏫 YLearn](https://learn.yemreak.com) projesine bakmanda fayda var.
+> Konuları öğrenmek için ideal yolları araştırdığımız [👨‍🏫 YLearn](https://learn.yemreak.com/) projesine bakmanda fayda var.
 
 {% hint style="success" %}
 Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
@@ -26,6 +26,6 @@ Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olab
 
 **The** [**Apache 2.0 License**](https://choosealicense.com/licenses/apache-2.0/) **©️ Yunus Emre Ak**
 
-****![](https://gblobscdn.gitbook.com/assets%2F-LrO7YGsAzYl\_KF41qg\_%2F-M08OE8Q3kZXus-8ge3Z%2F-M08OFPCelSML6Nb5opT%2Fysigniture-trans.png?alt=media)
+![](https://gblobscdn.gitbook.com/assets%2F-LrO7YGsAzYl\_KF41qg\_%2F-M08OE8Q3kZXus-8ge3Z%2F-M08OFPCelSML6Nb5opT%2Fysigniture-trans.png?alt=media)
 
 YEmreAk
